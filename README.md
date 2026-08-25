@@ -1,16 +1,23 @@
-## Hi there 👋
+# Dina Gudkova
 
-<!--
-**dinagudkova/dinagudkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst — turning messy, incomplete data into metrics people can act on.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Muesli Delivery Process — EDA &amp; KPI Analysis](https://github.com/dinagudkova/muesli-project)**
+
+Validated a distributor's own process assumptions against real order data, designed 5 KPIs from four inconsistent and partially-covered data sources, and ran a Monte Carlo simulation to recommend between two competing delivery-time fixes.
+
+→ [Case-study presentation (PDF)](https://github.com/dinagudkova/muesli-project/blob/main/presentation/muesli_case_study.pdf)
+
+## Tools I work with
+
+Python · pandas · NumPy · Matplotlib / Seaborn · Jupyter
+
+## More projects coming soon
+
+This is the first of several projects I'm adding here as I build out my portfolio.
+
+## Get in touch
+
+Email: your.email@example.com
