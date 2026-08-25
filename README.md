@@ -17,7 +17,3 @@ Python · pandas · NumPy · Matplotlib / Seaborn · Jupyter
 ## More projects coming soon
 
 This is the first of several projects I'm adding here as I build out my portfolio.
-
-## Get in touch
-
-Email: your.email@example.com
